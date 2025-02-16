@@ -145,7 +145,7 @@ final_composite = l8_composite;
         final_composite.select(['SR_B1', 'SR_B2', 'SR_B3', 'SR_B4', 'SR_B5', 'SR_B7', 'ST_B6']) :
         final_composite.select(['SR_B1', 'SR_B2', 'SR_B3', 'SR_B4', 'SR_B5', 'SR_B6', 'SR_B7', 'ST_B10']),
     description: 'Lagos_GapFilled_' + year,
-    folder: 'Lagos_GapFilled_2000_2024',
+    folder: 'modelling',
     scale: 30,
     region: AOI,
     fileDimensions: 7680,
